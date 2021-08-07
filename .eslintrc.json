@@ -11,5 +11,6 @@
         "sourceType": "module"
     },
     "rules": {
-    }
+    },
+    "plugins": ["eslint-plugin-html"]
 }
